@@ -1,11 +1,8 @@
-hallo my name myahyar,im web dev
+hallo my name myahyar,Im web dev
+
 ---
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,nodejs)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,nodejs,mongodb)](https://skillicons.dev)
 ---
 my project comming soon
 ---
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,nodejs,mongodb" />
-  </a>
-</p>
