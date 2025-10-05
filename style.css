@@ -58,6 +58,9 @@ body{
     
   }
     .card1-one{
+      display: flex;
+      justify-content: space-evenly;
+      align-items: center;
       margin-top: 10px;
       width: 95%;
       height: 50px;
@@ -67,4 +70,21 @@ body{
       box-sizing: border-box;
       text-align: center;
     }
-
+      .card1-one img{
+        
+      }
+      .card1-one .card1-name{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 70%;
+/*         background-color: green; */
+        box-sizing: border-box;
+      }
+       .card1-one .card1-name p{
+/*          background-color: lightgrey; */
+         font-size: 2em;
+         font-weight: 500;
+         margin: 0;
+       }
+      
