@@ -7,7 +7,7 @@ Hallo my name *yahya* , Im web dev ,my skill coming soon🙏
 ---
 
 *my project comming soon*
- 1. [mini-note](https://github.com/myahyar/mini-note.git)
+ 1. [mini-note](https://myahyar.github.io/mini-note/)
  2. kalkulator
  3. landing pakage
 
